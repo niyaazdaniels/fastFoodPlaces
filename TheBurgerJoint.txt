@@ -4,4 +4,7 @@ This is my favourite food place to go to
 Menu:
     1) The Whopping Burger
     2) THe Smashing Burger
+    3) The Forgiving Burger
+    4) The Vegan Burger
+    
 
